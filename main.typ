@@ -23,7 +23,7 @@ Given the current lack of treatment for AD, the best strategy to counteract the 
 Sleep science and Neurology have recently achieved remarkable contributions to the understanding of the link between AD and sleep @Iliff12 @Xie13. From an endocrinological perspective, the lymphatic and glymphatic systems seem to act as a cleansing mechanism for the brain. Most importantly, these purification pipelines and channels seem to work at full steam only during sleep. A graphical summary of this chicken-and-the-egg causal chain of events that may take part in the Alzheimer/sleep interplay is shown in [fig:adloop]. These recent findings have made it very hard for the scientific community to escape the conclusion that there is a tight connection between sleep patterns and the dawning (and development) of an AD case. In other words, the pathological states that go from sleep degradation to a potential AD scenario represent, in turn, a system of positive feedback loop @Doig18. This neuronal physical-chemical circuit ends up leading to the pseudo-exponential amplified cascade of the initial perturbation.
 
 #figure(
-  image("adloop.drawio.svg"),
+  image("adloop.svg"),
   caption: [Theorized pathway (and associated positive feedback loop) between deficient (fragmented) sleep and Alzheimer's],
 ) <loop>
 
